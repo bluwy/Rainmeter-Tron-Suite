@@ -13,12 +13,12 @@ RMSGain=1.0
 PeakAttack=0
 PeakDecay=0
 PeakGain=1
-FFTSize=4096
+FFTSize=0
 FFTAttack=0
 FFTDecay=50
 FreqMin=20
 FreqMax=16000
-Sensitivity=30
+Sensitivity=35
 
 [AudioValue]
 Measure=Calc

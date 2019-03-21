@@ -21,4 +21,4 @@
   - http://beyondthemarquee.com/29151/tron-identity-disc
   - https://www.deviantart.com/insanemime/art/Tron-Wallpaper-2560-x-1440-605652310
 - Font used: [encom-webfont](https://github.com/Anuroth/ByteMe/tree/master/assets/fonts). It's the only font I can find that looks nice.
-- Honeycomb: Some of the icons were used from [/u/BrianCav](https://www.reddit.com/u/BrainCav) icon collection linked [here](https://www.reddit.com/r/Rainmeter/comments/a222aa/yea_its_honeycomb_but_at_least_its_custom/eaw6i19?utm_source=share&utm_medium=web2x)
+- Honeycomb: Some of the icons were used from [/u/BrianCav](https://www.reddit.com/u/BrianCav) icon collection linked [here](https://www.reddit.com/r/Rainmeter/comments/a222aa/yea_its_honeycomb_but_at_least_its_custom/eaw6i19?utm_source=share&utm_medium=web2x)
