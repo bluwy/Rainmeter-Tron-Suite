@@ -2,6 +2,8 @@
 
 ![Desktop View](https://imgur.com/1BQlCYX.jpg)
 
+[Reddit Post & GIF](https://www.reddit.com/r/Rainmeter/comments/b3qq6p/my_tron_suite/?utm_source=share&utm_medium=web2x)
+
 ## How to use 
 1. Download [Rainmeter](https://rainmeter.net/).
 2. Download the rmskin file at the [Release](https://github.com/BjornLuG/Rainmeter-Tron-Suite/releases/tag/v1.0) section.
