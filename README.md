@@ -13,6 +13,7 @@
 ## Notes
 - Most of the suite functions can be found by right-clicking the *Theme.ini* skin.
 - Make sure to check the *Variables.inc* file to adjust its setting, especially the *ScreenHeight* option
+- Go to  the *MeasureAudio.inc* file to control the visualizer settings.
 - The suite uses a skin to overlay the desktop wallpaper to control the wallpaper tinting.
 - The suite is built on my 1366x768 monitor, you may have to adjust the position manually.
 - The clock and background has visualizer variants postfixed *'Vis'*. Load the correct variant to minimize unwanted CPU usage.
