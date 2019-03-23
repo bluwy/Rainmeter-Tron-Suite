@@ -3,6 +3,8 @@
 Multiplier=8
 ; Higher Multiplier will increase the pulse value and may cause the glow be more white-ish
 
+; The options below can be tweaked to your likings, for more information check this link
+; https://docs.rainmeter.net/manual/plugins/audiolevel/
 [MeasureAudio]
 Measure=Plugin
 Plugin=AudioLevel
